@@ -32,3 +32,12 @@ Clone the repo and install dependencies:
 git clone https://github.com/ToniHunter274/fashion-store.git
 cd fashion-store
 npm install
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage Screenshot](public/screenshot-home.png)
+
+### Product Page
+![Product Screenshot](public/screenshot-product.png)
+
