@@ -1,6 +1,14 @@
 # Fashion store
 # 🛍️ Fashion Store
 
+# 🛍️ Fashion Store
+
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-blue?style=for-the-badge&logo=prisma)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue?style=for-the-badge&logo=tailwindcss)
+![Postgres](https://img.shields.io/badge/Database-Postgres-informational?style=for-the-badge&logo=postgresql)
+
+
 A simple e-commerce demo built with **Next.js 15**, **Prisma**, and **SQLite/Postgres**.  
 The project demonstrates a modern full-stack setup with API routes, product pages, and a shopping cart.
 
