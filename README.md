@@ -36,7 +36,7 @@ npm install
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](public/screenshot-home.png)
+![Homepage Screenshot](./assets/homepage.png)
 
 ### Product Page
 ![Product Screenshot](public/screenshot-product.png)
