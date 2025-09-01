@@ -41,3 +41,15 @@ npm install
 ### Product Page
 ![Product Screenshot](public/screenshot-product.png)
 
+### Cart Page
+
+![Cart Page](./assets/cart-page.png)
+
+
+### Progress Log
+
+- Homepage layout complete
+- Product detail page complete
+- Cart functionality complete
+- Checkout (In progress)
+- Admin Panel (In progress)
