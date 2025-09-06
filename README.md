@@ -50,6 +50,7 @@ npm install
 
 - Homepage layout complete
 - Product detail page complete
-- Cart functionality complete
+- Cart functionality complete❌
 - Checkout (In progress)
 - Admin Panel (In progress)
+- Cart was functiong properly but is suddenly not functioning today, have to work on it 
